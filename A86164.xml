@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An earnest exhortation for the publike reading of Common-prayer. Or, The excellencie of divine service proved by Scripture. In which is contained, strong and undenyable arguments, out of the Old and New Testaments, for the commendation of Common prayer. Shewing that the Church militant here upon earth, doth by it most imitate the Church triumphant in Heaven. / Written by a well wisher to King and Kingdom T.H. Printed and published according to order.</title>
+            <author>T. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86164</idno>
+            <idno type="STC">Wing H132</idno>
+            <idno type="STC">Thomason E411_3</idno>
+            <idno type="STC">ESTC R204460</idno>
+            <idno type="EEBO-CITATION">99863950</idno>
+            <idno type="PROQUEST">99863950</idno>
+            <idno type="VID">161219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161219)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E411[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An earnest exhortation for the publike reading of Common-prayer. Or, The excellencie of divine service proved by Scripture. In which is contained, strong and undenyable arguments, out of the Old and New Testaments, for the commendation of Common prayer. Shewing that the Church militant here upon earth, doth by it most imitate the Church triumphant in Heaven. / Written by a well wisher to King and Kingdom T.H. Printed and published according to order.</title>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Domini. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber. [i.e. October] 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Public worship --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161219:1" rendition="simple:additions"/>
+            <p>An earneſt EXHORTATION For the publike reading of COMMON<g ref="char:EOLhyphen"/>PRAYER.</p>
+            <p>OR, The excellencie of <hi>Divine Service</hi> proved by Scripture.</p>
+            <p>In which is contained, ſtrong and undenyable arguments, out of the Old and New Te<g ref="char:EOLhyphen"/>ſtaments, for the commendation of Common Prayer.</p>
+            <p>
+               <hi>Shewing that the Church Militant here upon earth, doth by it moſt imitate the Church triumphant in Heaven.</hi>
+            </p>
+            <p>Written by a well wiſher to King and Kingdom. <hi>T. H.</hi>
+            </p>
+            <q>
+               <bibl>Quati's, <hi>Divine Fa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. lib. 2. Fa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 81.</bibl>
+               <l>The Booke of <hi>Common-Prayer</hi> excels the reſt;</l>
+               <l>For <hi>Pray'rs</hi> that are moſt <hi>Common</hi> are the beſt.</l>
+            </q>
+            <p>Printed and publiſhed according to Order.</p>
+            <p>London, Printed for <hi>H. T. Anno Domi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161219:2"/>
+            <pb n="1" facs="tcp:161219:2"/>
+            <head>AN EXHORTATION For publike PRAYER.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen as I call to minde the times paſt when Common and publike Prayer was uſed on <hi>Sunday, Wedneſday,</hi> and <hi>Friday,</hi> in this Land, how mercifull GOD was unto us, in hearing our Prayers, and bleſſing our Land with peace and plenty. Very comely it was to ſee, rich and poore, old and young, to joyne together in Gods true publike worſhip and ſervice: and well for us it was when wee could imitate the Angels in heaven, for they performe publike worſhip and praiſe in heaven, as you may read, <hi>Revel. 5. 11. And I beheld, and I heard the voyce of many Angels round about the Throne, and the Beaſts and Elders, and the number of them was
+<pb n="2" facs="tcp:161219:3"/> ten thouſand times ten thouſand: And after this I beheld, and loe a great multitude which no man could number, of all Nations and Kinred, and people and Tongues ſtood before the Throne, and before the Lambe, clothed with white robes, and palmes in their hands, and cryed with a loud voyce, ſaying, Salvati<g ref="char:EOLhyphen"/>on unto our God which ſitteth upon the Throne, and unto the Lambe, and all the Angels ſtood round about the Throne, and about the Elders, and the foure Beaſts, and fell before the Throne on their faces, and worſhiped God, ſaying. Amen: bleſſing, and glory, and wiſdome, and thankſgiving, and honour, and power, and might, be given unto God, for ever, and ever, Amen, Revel. 9. 10, 11, 12.</hi>
+            </p>
+            <p>But in hell is quite contrary, malice and curſing is the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: Then let the Church Militant pray and give thanks in the great congregation, <hi>Let us kneel before the Lord our Maker, and come before his pre<g ref="char:EOLhyphen"/>ſence with praiſe. Let the people praiſe thee, ô God, let all the people praiſe thee, call upon me in the day of trouble, and I will deliver thee.</hi> Gen. 4. ult. <hi>In the gener ation of</hi> Seth, <hi>men began to call upon the name of the Lord. My houſe is called the houſe of prayer,</hi> ſayth our Saviour. Now <hi>Peter</hi> and <hi>John</hi> went up together into the Temple at the houre of prayer, <hi>Acts</hi> 3. 3. By which it appeares there was a ſet houre appointed for prayer.</p>
+            <p>And after the reading of the Law and the Pro<g ref="char:EOLhyphen"/>phets, the Ruler of the Synagogue ſent unto them ſaying, ye men and brethren, If you have a word of exhortation for the people, ſay on, <hi>Act.</hi> 13. 15.
+<pb n="3" facs="tcp:161219:3"/> And again ſayth <hi>Paul,</hi> exhort therefore that firſt of all Supplication and Prayer, Interceſſion and giving of thanks be made for all men, for Kings and for all that are in authority, that we may live a godly and quiet life in all godlineſſe and hone<g ref="char:EOLhyphen"/>ſty, for this is good and acceptable in the ſight of God our Saviour, 2 <hi>Tim.</hi> 1, 2, 3. <hi>Verſes.</hi>
+            </p>
+            <p>This Scripture will reach to publike Prayer, and be acceptable unto God when it is performed in the name of Jeſus Chriſt our Saviour, for wee muſt needs judge that there is many of Gods dear children in a publike Congregation, as well as the Miniſter, whom the Lord delighteth in, and will be by his omni-preſence<g ref="char:punc">▪</g> in the midſt of them, and accept of their prayer in mercie, and will increaſe their faith and knowledge by it, as well as by preaching: For the light of the Holy Ghoſt comes by Prayer, as our Saviour ſayth, your heavenly Father will give the Holy Ghoſt to them that earneſtly aske him.</p>
+            <p>But ſome preciſe man will ſay, there is wicked men there which turne away their eares and their heart from hearing the Law, and therefore their Prayer is abominable.</p>
+            <p>I anſwer, Our Saviour ſayth, the Sheepe and goats are together, the tares and the wheat muſt grow together unto the time of harveſt.</p>
+            <p>And I anſwer alſo, that the Lord doth heare the Prayers of ungodly men, and doth ſomtimes ſend earthly bleſſings, and ſometimes remove earth<g ref="char:EOLhyphen"/>ly puniſhments.</p>
+            <pb n="4" facs="tcp:161219:4"/>
+            <p>The Lord ſaw the humiliations of <hi>Ahab,</hi> and therefore ſtaid the judgement for a time. The Lord ſaw the repentance of the men, women, and children of <hi>Nineveh,</hi> and their earneſt Prayers, and removed the judgement. The Lord heard the cry of <hi>Iſmael</hi> and ſent ſent water, and bleſt him with earthly bleſſings.</p>
+            <p>Then let us pray in our Churches, and confeſs our ſins upon our knees, and hope for mercie in Chriſt Jeſus, and then let us give thanks unto God Almighty, It is right and meet ſo to doe: <hi>Like as the hart deſireth after the water brooks, ſo longeth my ſoule after thee, ô God, my ſoule is athirſt for God yea even for the living God. When ſhall I come to appeare before the preſence of God? my teares have been my meat day and night, while they daily ſay un<g ref="char:EOLhyphen"/>to me, where is now thy God?</hi> Now when I thinke thereupon, I poure out my heartby my ſelfe: <hi>For I went with the multitude, and brought them forth into the houſe of God, in the voyce of praiſe and thankſgiving.</hi>
+            </p>
+            <p>Among ſuch as keep holyday, Gentlemen and Brethren, I pray conſider this Scripture, the two and fortieth Pſalme, which you have read already. What lamentable moan King <hi>David</hi> makes all this Pſalme over: becauſe hee is forced by his enemies from the publike place of Gods worſhip before e<g ref="char:EOLhyphen"/>ver the Temple was built, this man was a man af<g ref="char:EOLhyphen"/>ter Gods own heart, he was one of the thankfulleſt men that ever lived upon the earth, and God Al<g ref="char:EOLhyphen"/>mighty did heare his private prayers, reſtored him
+<pb n="5" facs="tcp:161219:4"/> to be King, and hee and his ſon to budd that fa<g ref="char:EOLhyphen"/>mous Temple of <hi>Jeraſalem,</hi> for Gods true pub<g ref="char:EOLhyphen"/>like worſhip and ſervice, which laſted in that place firſt and laſt above a thouſand yeers. And it is well known unto the learned, that publike and common Prayer hath beene uſed in all ages ſince Chriſt was upon the earth, but at the laſt was abuſed by the Papiſts by an humble and refined Idolatry, in mediating to the Virgin <hi>Mary,</hi> and to the Saints de<g ref="char:EOLhyphen"/>parted, which was againſt Gods commandements, though the Heathen Idolatry ſeemed more rude when they worſhipped <hi>Diana</hi> and <hi>Jupiter.</hi> But in King <hi>Edward</hi> the Sixth's time publike prayer was reformed, and Chriſt Jeſus was ſet up, the only Mediatour betweene God and man, untill the ha<g ref="char:EOLhyphen"/>tred of the Papiſts took it away in Queen <hi>Maries</hi> days. Then after five years God Almighty raiſed Queen <hi>Elizabeth</hi> to ſet up Gods publike worſhip arightagain, which brought great joy and honour unto this Land: but now (alas) our ſins hath cau<g ref="char:EOLhyphen"/>ſed God Almighty to ſuffer it to be taken away: the Lord forgive the blind zeal of them that took it away. Can any underſtanding men deny theſe lines to be truth, grounded upon Gods word, both by the old and new Teſtaments. Therefore my de<g ref="char:EOLhyphen"/>ſire is, that no man eſteem this book as a Pamph<g ref="char:EOLhyphen"/>let, but the words of truth and ſoberneſſe. And my deſire is firſt to God Almighty, that ſome godly form of Prayer may be reſtored into our Churches again, that rich and poor, old and young may pub<g ref="char:EOLhyphen"/>likely and earneſtly call upon God in the name of
+<pb n="6" facs="tcp:161219:5"/> Chriſt Jeſus, and not leave all to their Miniſters, and be careleſſe or ſleep the while, as many do now adays, for every man muſt be ſaved by his own faith. And for my part, I have found my heavy ſpirit much enlarged by the voice of the multi<g ref="char:EOLhyphen"/>tude, and the fitter for private Prayer and Thankſ<g ref="char:EOLhyphen"/>giving: therefore I humbly deſire, and my petiti<g ref="char:EOLhyphen"/>on is, if accidentally this book ſhall come into the hands of any Member of the Honourable Houſes, that they will ſpeak for ſo good a work, and your Petitioner ſhall thank God for it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
